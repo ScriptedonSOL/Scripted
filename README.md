@@ -1,6 +1,6 @@
 # scripted
 
-![banner](assets/banner.png)
+![banner](assets/banner.jpg)
 
 this is scripted to go insanely high.
 
@@ -12,13 +12,4 @@ this is scripted to go insanely high.
 2. the community improves it
 3. insanely high
 
----
-
-## script.js
-
-```js
-export default function () {
-  return "this is scripted to go insanely high";
-}
-```
 
