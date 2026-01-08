@@ -2,7 +2,7 @@
 
 ![banner](assets/banner.jpg)
 
-this is scripted to go insanely high.
+this is scripted to take the trenches to new highs
 
 ---
 
