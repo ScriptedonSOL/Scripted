@@ -1,5 +1,5 @@
 export default function () {
 
-  return "this is scripted to go insanely high";
+  return "This is real tek, and will take the trenches to new highs.";
 
 }
