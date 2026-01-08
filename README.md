@@ -10,6 +10,6 @@ this is scripted to go insanely high.
 
 1. the script exists
 2. the community improves it
-3. insanely high
+3. the script  takes the trenches to new highs
 
 
